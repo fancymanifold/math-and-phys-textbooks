@@ -18,10 +18,12 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 1. Landau and Lifshitz, *"Mechanics"*
 2. Arnold, *"Mathematical Methods of Classical Mechanics"*
 3. Goldstein, *"Classical Mechanics"*
-4. Bonus memes:
+4. Spivak, *"Physics for Mathematicians, Mechanics"*
+5. Bonus memes:
     - Takhtajan, *"Quantum Mechanics for Mathematicians"* (Ch. 1)
     - Marsden and Ratiu, *"Introduction To Mechanics And Symmetry"*
     - Abraham and Mardsen, *"Foundations of Mechanics"*
+    - Thirring, *"Classical Mathematical Physics"* (Part I)
     - Kubiznak, *"Classical Mechanics"* [(Video)](http://pirsa.org/C15044)
     - Osborne, *"Symplectic Geometry and Classical Mechanics"* [(Video)](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
 
@@ -29,16 +31,16 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 ### 2. Special Relativity
 
 1. Carroll, *"Spacetime and Geometry"* (Ch. 1)
-2. Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 1-2)
+2. Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 1–2)
 3. Bonus memes:
-    - Lightman, Press, Price, and Teukolsky, *"Problem Book in Relativity and Gravitation"* (Ch. 1-3)
-    - Misner, Thorne, and Wheeler, *"Gravitation"* (Ch. 1-2, 5-6)
+    - Lightman, Press, Price, and Teukolsky, *"Problem Book in Relativity and Gravitation"* (Ch. 1–3)
+    - Misner, Thorne, and Wheeler, *"Gravitation"* (Ch. 1–2, 5–6)
 
 
 ### 3. Electrodynamics
 
-1. Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 3-9)
-2. Misner, Thorne, and Wheeler, *"Gravitation"* (Ch. 3-5)
+1. Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 3–9)
+2. Misner, Thorne, and Wheeler, *"Gravitation"* (Ch. 3–5)
 3. Jackson, *"Classical Electrodynamics"*
 
 
@@ -52,6 +54,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Woit, *"Quantum Theory, Groups and Representations"*
     - Cohen-Tannoudji, Diu, and Laloe, *"Quantum Mechanics"*
     - Weinberg, *"Lectures on Quantum Mechanics"*
+    - Thirring, *"Quantum Mathematical Physics"* (Part I)
     - Faddeev and Yakubovskii, *"Lectures on Quantum Mechanics for Mathematics Students"*
     - Fock, *"Fundamentals of Quantum Mechanics"*
     - Landau and Lifshitz, *"Quantum Mechanics"*
@@ -74,7 +77,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Lightman, Press, Price, and Teukolsky, *"Problem Book in Relativity and Gravitation"*
     - d'Inverno, *"Introducing Einstein's relativity"*
     - Misner, Thorne, and Wheeler, *"Gravitation"*
-    - Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 10-14)
+    - Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 10–14)
     - Hawking and Ellis, *"The Large Scale Structure of Spacetime"*
     - Chandrasekhar, *"The Mathematical Theory of Black Holes"*
 
@@ -96,6 +99,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 2. Weinberg, *"Cosmology"*
 3. Rubakov and Gorbunov, *"Introduction to the Theory of the Early Universe"*
 4. Morison, *"Introduction to Astronomy and Cosmology"*
+5. Page, *"The Little Book of Cosmology"*
 
 
 ### 9. General physics
@@ -118,6 +122,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 
 - Cahill, *"Physical Mathematics"*
 - Szekeres, *"A Course in Modern Mathematical Physics"*
+- Byron and Fuller, *"Mathematics of Classical and Quantum Physics"*
 - Hassani, *"Mathematical Physics"*
 - Arfken, Harris, and Weber, *"Mathematical Methods for Physicists"*
 - Riley, Hobson, and Bence, *"Mathematical Methods for Physics and Engineering"*
@@ -139,7 +144,16 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 - Nakahara, *"Geometry, Topology and Physics"*
 - Nash and Sen, *"Topology and Geometry for Physicists"*
 - Frankel, *"The Geometry of Physics"*
+- Choquet-Bruhat and DeWitt-Morette, *"Analysis, Manifolds and Physics"*
 - Doran and Lasenby, *"Geometric Algebra for Physicists"*
+
+
+### 11. Handbooks (physics)
+
+- Benenson, Harris, Stocker, and Lutz, *"Handbook of Physics"*
+- Menzel, *"Fundamental Formulas of Physics"*
+- Polyanin and Chernoutsan, *"A Concise Handbook of Mathematics, Physics, and Engineering Sciences"*
+- Woan, *"The Cambridge Handbook of Physics Formulas"*
 
 
 -------------------------------------------------------------------------------
@@ -185,6 +199,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 
 - Szekeres, *"A Course in Modern Mathematical Physics"*
 - Cahill, *"Physical Mathematics"*
+- Byron and Fuller, *"Mathematics of Classical and Quantum Physics"*
 - Hassani, *"Mathematical Physics"*
 - Hassani, *"Mathematical Methods for Students of Physics and Related Fields"*
 - Arfken, Harris, and Weber, *"Mathematical Methods for Physicists"*
@@ -255,4 +270,19 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 4. Bonus memes:
     - Kobayashi and Nomizu, *"Foundations of Differential Geometry"*
     - Gadea, Masque, and Mykytyuk, *"Analysis and Algebra on Differentiable Manifolds (Workbook)"*
+
+
+### 10. Handbooks (mathematics)
+
+- Bronshtein, and Semendyayev, *"Handbook of Mathematics"*
+- Gradshtein, and Ryzhik, *"Table of Integrals, Series, and Products"*
+- Olver, Lozier, Boisvert, and Clark, *"NIST Handbook of Mathematical Functions"*
+- Jeffrey and Dai, *"Handbook of Mathematical Formulas and Integrals"*
+- Korn and Korn, *"Mathematical Handbook for Scientists and Engineers"*
+- Lipschutz, Spiegel, and Liu, *"Mathematical Handbook of Formulas and Tables"*
+- Abramowitz and Stegun, *"Handbook of Mathematical Functions"*
+- Polyanin and Zaitsev, *"Handbook of Ordinary Differential Equations"*
+- Polyanin and Nazaikinskii, *"Handbook of Linear Partial Differential Equations"*
+- Polyanin and Zaitsev, *"Handbook of Nonlinear Partial Differential Equations"*
+- Polyanin and Manzhirov, *"Handbook of Integral Equations"*
 
