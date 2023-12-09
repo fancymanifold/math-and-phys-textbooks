@@ -13,11 +13,11 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 -------------------------------------------------------------------------------
 ## Physics
 
-### 1. Classical Mechanics
+### 1  Classical Mechanics
 
-1. Landau and Lifshitz, *"Mechanics"*
-2. Arnold, *"Mathematical Methods of Classical Mechanics"*
-3. Goldstein, *"Classical Mechanics"*
+1. Goldstein, *"Classical Mechanics"*
+2. Landau and Lifshitz, *"Mechanics"*
+3. Arnold, *"Mathematical Methods of Classical Mechanics"*
 4. Spivak, *"Physics for Mathematicians, Mechanics"*
 5. Bonus memes:
     - Takhtajan, *"Quantum Mechanics for Mathematicians"* (Ch. 1)
@@ -28,7 +28,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Osborne, *"Symplectic Geometry and Classical Mechanics"* [(Video)](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
 
 
-### 2. Special Relativity
+### 2  Special Relativity
 
 1. Carroll, *"Spacetime and Geometry"* (Ch. 1)
 2. Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 1–2)
@@ -37,14 +37,14 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Misner, Thorne, and Wheeler, *"Gravitation"* (Ch. 1–2, 5–6)
 
 
-### 3. Electrodynamics
+### 3  Electrodynamics
 
 1. Landau and Lifshitz, *"The Classical Theory Of Fields"* (Ch. 3–9)
 2. Misner, Thorne, and Wheeler, *"Gravitation"* (Ch. 3–5)
 3. Jackson, *"Classical Electrodynamics"*
 
 
-### 4. Quantum Mechanics
+### 4  Quantum Mechanics
 
 1. Shankar, *"Principles of Quantum Mechanics"*
 2. Sakurai and Napolitano, *"Modern Quantum Mechanics"*
@@ -60,7 +60,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Landau and Lifshitz, *"Quantum Mechanics"*
 
 
-### 5. Statistical Mechanics
+### 5  Statistical Mechanics
 
 1. Pathria, *"Statistical Mechanics"*
 2. Kardar, *"Statistical Physics of Particles"*
@@ -68,7 +68,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 4. Landau and Lifshitz, *"Physical Kinetics"*
 
 
-### 6. General Relativity
+### 6  General Relativity
 
 1. Carroll, *"Spacetime and Geometry"*
 2. Wald, *"General Relativity"*
@@ -82,7 +82,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Chandrasekhar, *"The Mathematical Theory of Black Holes"*
 
 
-### 7. Quantum Field Theory
+### 7  Quantum Field Theory
 
 0. Rubakov, *"Classical Theory of Gauge Fields"*
 1. Ryder, *"Quantum Field Theory"*
@@ -93,7 +93,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Weinberg, *"The Quantum Theory of Fields"*
 
 
-### 8. Cosmology and Astrophysics
+### 8  Cosmology and Astrophysics
 
 1. Weinberg, *"Lectures on Astrophysics"*
 2. Weinberg, *"Cosmology"*
@@ -102,13 +102,11 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 5. Page, *"The Little Book of Cosmology"*
 
 
-### 9. General physics
+### 9  Introductory physics
 
-1. Savelyev, *"Physics"*
-2. Shankar, *"Fundamentals of Physics"*
-3. Weinberg, *"Foundations of Modern Physics"*
-4. Halliday, Resnick, and Walker, *"Fundamentals of Physics"*
-5. Bonus memes:
+1. Halliday, Resnick, and Walker, *"Fundamentals of Physics"*
+2. Weinberg, *"Foundations of Modern Physics"*
+3. Bonus memes:
     - Knight, *"Physics for Scientists and Engineers"*
     - Young and Freedman, *"University Physics with Modern Physics"*
     - Giancoli, *"Physics"*
@@ -116,7 +114,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Serway and Vuille, *"College Physics"*
 
 
-### 10. Mathematics for Physics
+### 10  Mathematics for Physics
 
 #### General courses
 
@@ -148,7 +146,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 - Doran and Lasenby, *"Geometric Algebra for Physicists"*
 
 
-### 11. Handbooks (physics)
+### 11  Handbooks (physics)
 
 - Benenson, Harris, Stocker, and Lutz, *"Handbook of Physics"*
 - Menzel, *"Fundamental Formulas of Physics"*
@@ -159,18 +157,19 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 -------------------------------------------------------------------------------
 ## Mathematics
 
-### 1. Real Analysis
+### 1  Real Analysis
 
 1. Zorich, *"Mathematical Analysis"*
 2. Abbott, *"Understanding Analysis"*
 3. Wade, *"Introduction to Analysis"*
 4. Bonus memes:
+    - Apostol, *"Mathematical Analysis"*
     - Folland, *"Real Analysis: Modern Techniques and Their Applications"*
     - Axler, *"Measure, Integration and Real Analysis"*
     - Rudin, *"Real and Complex Analysis"*
 
 
-### 2. Complex Analysis
+### 2  Complex Analysis
 
 1. Ahlfors, *"Complex Analysis"*
 2. Shabat, *"Introduction to Complex Analysis"*
@@ -184,7 +183,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Stein and Shakarchi, *"Complex Analysis"*
 
 
-### 3. Ordinary Differential Equations
+### 3  Ordinary Differential Equations
 
 1. Arnold, *"Ordinary Differential Equations"*
 2. Boyce, DiPrima, and Meade, *"Elementary Differential Equations and Boundary Value Problems"*
@@ -193,7 +192,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 5. Tenenbaum and Pollard, *"Ordinary Differential Equations"*
 
 
-### 4. Mathematical Physics
+### 4  Mathematical Physics
 
 #### General courses
 
@@ -233,36 +232,44 @@ This is a list of textbook recommendations for studying mathematics and theoreti
 - Strichartz, *"A Guide to Distribution Theory and Fourier Transforms"*
 
 
-### 5. Probability Theory and Statistics
+### 5  Probability Theory
+
+#### Basic
+
+- Rozanov, *"Probability Theory: A Concise Course"*
+- Ash, *"Basic Probability Theory"*
+- Anderson, Seppäläinen, and Valkó, *"Introduction to Probability"*
+- Ross, "A First Course in Probability"
+- Bertsekas and Tsitsiklis, *"Introduction to Probability"*
+- Parzen, *"Modern Probability Theory and its Applications"*
+
+#### Advanced
 
 - Rosenthal, *"A First Look at Rigorous Probability Theory"*
-- Chung, *"A Course in Probability Theory"*
-- Kallenberg, *"Foundations of Modern Probability"*
-- Parzen, *"Modern Probability Theory and its Applications"*
-- Billingsley, *"Probability and Measure"*
-- Ash and Doléans-Dade, *"Probability and Measure Theory"*
+- Williams, *"Probability with Martingales"*
 - Resnick, *"A Probability Path"*
+- Kallenberg, *"Foundations of Modern Probability"*
 
 
-### 6. Linear Algebra
+### 6  Linear Algebra
 
 1. Axler, *"Linear Algebra Done Right"*
 2. Kostrikin and Manin, *"Linear Algebra and Geometry"*
 
 
-### 7. Algebra
+### 7  Algebra
 
 1. Dummit and Foote, *"Abstract Algebra"*
 
 
-### 8. Analysis on manifolds
+### 8  Analysis on manifolds
 
 1. Spivak, *"Calculus On Manifolds"*
 2. Warner, *"Foundations of Differentiable Manifolds and Lie Groups"*
 3. Flanders, *"Differential Forms with Applications to the Physical Sciences"*
 
 
-### 9. Differential Geometry and Topology
+### 9  Differential Geometry and Topology
 
 1. Novikov and Taimanov, *"Modern Geometric Structures And Fields"*
 2. Nakahara, *"Geometry, Topology and Physics"* (Ch. 2, 5, 7)
@@ -272,7 +279,7 @@ This is a list of textbook recommendations for studying mathematics and theoreti
     - Gadea, Masque, and Mykytyuk, *"Analysis and Algebra on Differentiable Manifolds (Workbook)"*
 
 
-### 10. Handbooks (mathematics)
+### 10  Handbooks (mathematics)
 
 - Bronshtein, and Semendyayev, *"Handbook of Mathematics"*
 - Gradshtein, and Ryzhik, *"Table of Integrals, Series, and Products"*
